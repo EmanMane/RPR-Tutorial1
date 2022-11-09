@@ -1,22 +1,15 @@
 # RPR-Tutorial1
 Tutorial 1 - Course name: "Development of software solutions" 
 
+University of Sarajevo Faculty of Electrical Engineering Sarajevo Subject: Development of software solutions 2022/2023
 
-Univerzitet u Sarajevu
-Elektrotehnički fakultet Sarajevo
-Predmet: Razvoj programskih rješenja 2022/2023
+Tutorial 1
 
-Tutorijal 1
+Task 1 Without using the IntelliJ IDEA environment, create a Java program that allows entering two integers and printing them on the screen. Run from the command line.
 
-Zadatak 1
-Bez korištenja okruženja IntelliJ IDEA, kreirati Java program koji omogućuje unos dva cijela broja i njihov ispis na ekran. Pokrenuti iz komandne linije.
+Task 2 Using IntelliJ IDEA, create a project named "rpr-t1-z2". Create a program that prints on the screen all numbers between 1 and n that are divisible by the sum of their digits, where n is entered from the keyboard. The program must include the function sumDigits. Upon completion, the task should be uploaded to GitHub using only the functionality of the IntelliJ IDEA environment! After that, you need to convert that project to a Maven project and run it from the Command Prompt.
 
-Zadatak 2
-Koristeći IntelliJ IDEA napraviti projekat pod nazivom "rpr-t1-z2". Napravite program koji na ekranu ispisuje sve brojeve između 1 i n koji su djeljivi sa sumom svojih cifara, pri čemu se n unosi sa tastature. U programu se obavezno treba nalaziti funkcija sumaCifara. Po završetku zadatak treba postaviti na GitHub koristeći isključivo funkcionalnosti IntelliJ IDEA okruženja!
-Nakon toga, potrebno je da uradite konverziju tog projekta u Maven projekat i da pokrenete iz Command Prompt-a. 
-
-Zadatak 3
-Sljedeći primjer koda sa predmeta Tehnike programiranja (program u programskom jeziku C++) prebaciti u programski jezik Java (projekat "rpr-t1-z3"). Pri tome se držati pravila organizacije koda i imenovanja za Javu koja su obrađena na predavanjima. Po završetku zadatak treba postaviti na GitHub.
+Task 3 Transfer the following code example from the subject of Programming Techniques (a program in the C++ programming language) to the Java programming language (project "rpr-t1-z3"). In doing so, adhere to the code organization and naming rules for Java that were covered in the lectures. After completion, the task should be uploaded to GitHub.
 
 #include \<iostream\>
 
