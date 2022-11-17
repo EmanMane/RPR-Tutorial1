@@ -1,5 +1,5 @@
 # RPR-Tutorial1
-Tutorial 1 - Course name: "Development of software solutions" 
+Tutorial 1 on course "Development of software solutions" 
 
 University of Sarajevo Faculty of Electrical Engineering Sarajevo Subject: Development of software solutions 2022/2023
 
